@@ -1,0 +1,2 @@
+I’m guessing you’re learning Python because you want to write interactive programs, like video games. Well, today is my lucky day. I am going to program my first Python game which is rock paper & scrissors.
+harisjr
